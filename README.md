@@ -7,4 +7,4 @@
 ### 2022
 - CVE-2022-27330 ( https://github.com/CP04042K/Full-Ecommece-Website-Add_Product-Stored_XSS-POC ) - Credit to Shin24 & D4rkP0w4r
 ### 2023
-- CVE-2023-36543 (https://security.snyk.io/vuln/SNYK-PYTHON-APACHEAIRFLOW-5773324)
+- CVE-2023-36543 (https://security.snyk.io/vuln/SNYK-PYTHON-APACHEAIRFLOW-5773324) - Credit to Shin24 from NCS HCM
