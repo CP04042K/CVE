@@ -7,5 +7,5 @@
 ### 2022
 - CVE-2022-27330: Stored XSS in `/public/admin/index.php` ( https://nvd.nist.gov/vuln/detail/CVE-2022-27330 ) - Collab with D4rkP0w4r
 ### 2023
-- CVE-2023-36543: ReDos in Apache Airflow ( https://security.snyk.io/vuln/SNYK-PYTHON-APACHEAIRFLOW-5773324 ) - with from NCS HCM
+- CVE-2023-36543: ReDos in Apache Airflow ( https://security.snyk.io/vuln/SNYK-PYTHON-APACHEAIRFLOW-5773324 ) - with NCS HCM
 - CVE-2023-5917: Path traversal to Stored XSS in import icons PHPBB ( https://www.phpbb.com/community/viewtopic.php?t=2646991 )
