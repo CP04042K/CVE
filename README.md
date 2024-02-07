@@ -10,5 +10,5 @@
 - CVE-2023-36543: ReDos in Apache Airflow ( https://security.snyk.io/vuln/SNYK-PYTHON-APACHEAIRFLOW-5773324 ) - with NCS HCM
 - CVE-2023-5917: Path traversal to Stored XSS in import icons PHPBB ( https://www.phpbb.com/community/viewtopic.php?t=2646991 )
 ### 2024
-- CVE-2024-23335: mybb .htaccess file deletion
-- CVE-2024-23336: mybb allow list bypass to unauthenticated SSRF
+- CVE-2024-23335: mybb .htaccess file deletion (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-23335)
+- CVE-2024-23336: mybb allow list bypass to unauthenticated SSRF (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-23336)
