@@ -12,4 +12,4 @@
 ### 2024
 - CVE-2024-23335: mybb .htaccess file deletion (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-23335)
 - CVE-2024-23336: mybb allow list bypass to unauthenticated SSRF (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-23336)
-- CVE-2024-45195: Apache Ofbiz Forced browsing to Unauthenticated Remote Code Execution
+- CVE-2024-45195: Apache Ofbiz Forced browsing to Unauthenticated Remote Code Execution (https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html)
